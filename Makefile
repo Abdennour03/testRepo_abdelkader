@@ -23,7 +23,7 @@ BLUE = \033[0;94m
 MAGENTA = \033[0;95m
 CYAN = \033[0;96m
 WHITE = \033[0;97m
-
+# jhjijiu
 all: $(TARGET)
 
 $(TARGET): $(NAME) $(HEADER) $(LIBFT)
